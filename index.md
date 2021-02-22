@@ -39,12 +39,10 @@ The majority of the updates are in this [commit](https://github.com/cgberlin/bri
 
 ex. 2 
 
-{% raw  %}
-{%
+```
 <!-- conditionally show pipe + author if it exists -->
-<h2 class="project-title">{{ title }} {{author ? `| ${author}` : ''}}</h2>
-%}
-{% endraw %}
+<h2 class="project-title">{{ title }} {{ author }}</h2>
+```
 
 ex. 2
 ```
