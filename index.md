@@ -37,7 +37,7 @@ I have met most of the objectives I set out to. Originally I planned on renaming
 
 The majority of the updates are in this [commit](https://github.com/cgberlin/brightbluewaves/commit/5cf3c8278d9b77ef9f581b3838a66e52513ec4bb).
 
-ex. 2 
+ex. 1
 
 ```
 <!-- conditionally show pipe + author if it exists -->
